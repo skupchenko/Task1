@@ -1,10 +1,9 @@
-nav {
-    display: none;
-}
 
-#catalog {
+/* Скрывает панель навигации и каталог в медиа */
+#navigation, #catalog {
     display: none;
 }
+/* ----------------------------------- */
 
 #categories {
     /*background: #e5cfcf;*/
